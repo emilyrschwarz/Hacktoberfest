@@ -1,3 +1,5 @@
 #AssemblyTips
 
 There aren't any.
+
+Instructions that end in i are only usable with r16-r31.
